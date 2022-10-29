@@ -6,8 +6,8 @@
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build dist/*.html --public-url /goit-js-hw-08-main/"
-  },          
- "repository": {
+  },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
@@ -18,10 +18,10 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "checkout": "github:actions/checkout",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
-    "JamesIves/github-pages-deploy-action": "^4.1.0",
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
@@ -29,4 +29,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-

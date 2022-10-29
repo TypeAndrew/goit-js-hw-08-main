@@ -5,7 +5,7 @@
   "homepage": "https://TypeAndrew.github.io/goit-js-hw-08-main",
   "scripts": {
     "start": "parcel ./src/*.html",
-    "build": "parcel build ./src/*.html --public-url /goit-js-hw-08-main/"
+    "build": "parcel build /src/*.html --public-url /goit-js-hw-08-main/"
   },
   "repository": {
     "type": "git",

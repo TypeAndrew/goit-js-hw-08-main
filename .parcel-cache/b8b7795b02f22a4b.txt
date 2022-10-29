@@ -67,7 +67,7 @@
 62C:\Github\goit-js-hw-08-main\node_modules\glob-parent\index.js133115056118461521 0
 61C:\Github\goit-js-hw-08-main\node_modules\terser\CHANGELOG.md133115056124978313 0
 56C:\Github\goit-js-hw-08-main\node_modules\is-binary-path133115343765848730 1
-33C:\Github\goit-js-hw-08-main\dist133115362089493895 1
+33C:\Github\goit-js-hw-08-main\dist133115362089633513 1
 100C:\Github\goit-js-hw-08-main\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133115056119189572 0
 51C:\Github\goit-js-hw-08-main\node_modules\acorn\bin133115343714186140 1
 65C:\Github\goit-js-hw-08-main\node_modules\lodash\fp\extendWith.js133115056129094675 0
@@ -98,7 +98,7 @@
 69C:\Github\goit-js-hw-08-main\node_modules\lodash\sortedLastIndexBy.js133115056131956018 0
 121C:\Github\goit-js-hw-08-main\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\embed2\file3.txt133115056124868611 0
 89C:\Github\goit-js-hw-08-main\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133115056122261363 0
-41C:\Github\goit-js-hw-08-main\package.json133115351784625186 0
+41C:\Github\goit-js-hw-08-main\package.json133115369854808821 0
 61C:\Github\goit-js-hw-08-main\node_modules\lodash\trimStart.js133115056132564093 0
 60C:\Github\goit-js-hw-08-main\node_modules\@parcel\plugin\lib133115343686658750 1
 83C:\Github\goit-js-hw-08-main\node_modules\caniuse-lite\data\features\textcontent.js133115056131417443 0

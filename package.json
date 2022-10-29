@@ -7,24 +7,18 @@
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08-main/"
   },
-  "repository": {
+ "repository": {
     "type": "git",
-    "url": "git+https://github.com/TypeAndrew/goit-js-hw-08-main.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Andrew Shulyar <andy.shular@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TypeAndrew/goit-js-hw-08-main/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "@swc/helpers": "^0.4.12",
-    "@vimeo/player": "^2.18.0",
-    "checkout": "github:actions/checkout",
-    "gh-pages": "^4.0.0",
-    "lodash.throttle": "^4.1.1",
-    "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.10.4"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
@@ -34,3 +28,4 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+

@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
 
+runs:
+  using: 'node16'
+  main: 'main.js'
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

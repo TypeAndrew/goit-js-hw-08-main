@@ -20,6 +20,7 @@
   "dependencies": {
     "@swc/helpers": "^0.4.12",
     "@vimeo/player": "^2.18.0",
+    "checkout": "github:actions/checkout",
     "gh-pages": "^4.0.0",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
@@ -32,5 +33,4 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
-  
 }

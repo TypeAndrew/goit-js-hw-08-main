@@ -4,8 +4,8 @@
   "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
   "homepage": "https://TypeAndrew.github.io/goit-js-hw-08-main",
   "scripts": {
-    "start": "parcel ./src/*.html",
-    "build": "parcel build /src/*.html --public-url /goit-js-hw-08-main/"
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08-main/"
   },
   "repository": {
     "type": "git",

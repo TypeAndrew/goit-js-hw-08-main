@@ -1,0 +1,36 @@
+{
+  "name": "type-andrew",
+  "version": "1.1.0",
+  "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
+  "homepage": "https://TypeAndrew.github.io/goit-js-hw-08-main",
+  "scripts": {
+    "start": "parcel ./src/*.html",
+    "build": "parcel build /src/*.html --public-url /goit-js-hw-08-main/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TypeAndrew/goit-js-hw-08-main.git"
+  },
+  "keywords": [],
+  "author": "Andrew Shulyar <andy.shular@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TypeAndrew/goit-js-hw-08-main/issues"
+  },
+  "dependencies": {
+    "@swc/helpers": "^0.4.12",
+    "@vimeo/player": "^2.18.0",
+    "gh-pages": "^4.0.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.10.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+  
+}

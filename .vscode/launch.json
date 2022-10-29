@@ -1,0 +1,11 @@
+{
+    "configurations": [
+    {
+        "name": "Attach to Chrome",
+        "port": 1234,
+        "request": "attach",
+        "type": "chrome",
+        "webRoot": "${workspaceFolder}"
+    }
+    ]
+}
